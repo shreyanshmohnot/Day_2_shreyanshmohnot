@@ -1,0 +1,16 @@
+What is Python?
+A high level dynamic interpreted programming language. It is general purpose meaning it both for web and application development.
+
+Features of Python
+Very fast and efficient, as well as open source; user readable, with similarity with english language.
+Allows support of extensive functional template and libraries.
+
+Who are using Python?
+Industries – Financial sector, Service Providers, Transportation industry, almost with every business.  
+
+Where we can use Python?
+For Web, Mobile and Application Development, Server side, Client side, for Automation, Data Analysis, Machine Learning, etc.
+
+One Company use-case about Python
+https://eng.uber.com/tech-stack-part-one-foundation/
+Uber’s engineers primarily write in Python, Node.js, Go, and Java. It started with two main languages: Node.js for the Marketplace team, and Python for everyone else. These first languages still power most services running at Uber today. It is replacing older Python code as well as break up the original code base into microservices. Adopting to an asynchronous programming model. Uber uses Tornado with Python, but Go’s native support for concurrency in most new performance-critical services. Uber also develop frameworks for visualization that other technologies, like R and Shiny and Python, can access for the charting components. 
